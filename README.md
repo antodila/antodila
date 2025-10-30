@@ -21,9 +21,9 @@
 | Project | Description | Tech |
 |:--|:--|:--|
 | [**Multimedia Data Security**](https://github.com/antodila/multimedia_data_security) | DCT-based watermarking system for embedding and detecting hidden patterns in grayscale images | Python, NumPy, OpenCV |
-| **Computer Vision Labs** | Object detection and feature tracking experiments from course projects | Python, OpenCV, YOLO |
-| **Distributed Systems Labs** | Implementation of client-server models and data synchronization protocols | Python, gRPC, Socket programming |
-| **HPC Benchmarks** | Parallel computation and performance analysis using OpenMP and MPI | C++, Python |
+| **Computer Vision (MoCap)** | Object detection and feature tracking experiments from course projects | Python, OpenCV, YOLO |
+| **Distributed Systems** | Implementation of client-server models and data synchronization protocols | Python, gRPC, Socket programming |
+| **HPC Parallel Spectral Clustering** | Parallel spectral clustering analysis using MPI | C++, Python |
 
 ---
 
