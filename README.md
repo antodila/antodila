@@ -28,12 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antodila&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antodila&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Di%20Lauro-blue?logo=linkedin)](https://www.linkedin.com/in/antonio-di-lauro-b22905298)  
 📧 **Email:** [antonio02120212@gmail.com](mailto:antonio02120212@gmail.com)
