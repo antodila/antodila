@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Antonio Di Lauro  
 
 🎓 **MSc Student in Information Engineering** at the University of Trento (Italy)  
-💡 Passionate about **Software Engineering, Machine Learning, Distributed Systems** and **High Performance Computing** 
+💡 Passionate about **Software Engineering, Machine Learning, Distributed Systems** and **High Performance Computing**  
 💻 Former **Analyst Software Engineer** at [Fincons Group](https://www.finconsgroup.com/), where I worked on backend development in Java and Gosu  
 🔬 Currently working on academic and applied projects involving **Low-power wireless networking for IoT** and **Recognition systems**
 
