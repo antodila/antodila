@@ -23,7 +23,7 @@
 | [**On-Demand SDN Slices**](https://github.com/antodila/on-demand-sdn-slices) | Dynamic network slicing system with QoS, traffic isolation, and priority preemption using Ryu controller | Python, Ryu, OpenFlow, Mininet |
 | [**Deepfake Quantization Analysis**](https://github.com/antodila/quantization-deepfake-detection) | Research on the impact of aggressive 4-bit quantization on SOTA deepfake detectors (SD3, Flux.1) | Python, PyTorch, Diffusers |
 | [**CourtSense: Broadcast Analytics**](https://github.com/antodila/courtsense) | Sport analytics pipeline extracting physical metrics (speed, spacing) from broadcast video via Homography | Python, OpenCV, Streamlit |
-| [**HPC Parallel Spectral Clustering**](https://github.com/antodila/hpc-spectral-clustering) | Parallel spectral clustering analysis using MPI and OpenMP for distributed environments | C++, MPI, Python |
+| [**HPC Parallel Spectral Clustering**](https://github.com/antodila/HPC_Spectral_Clustering) | Parallel spectral clustering analysis using MPI and OpenMP for distributed environments | C++, MPI, Python |
 | [**Distributed Systems**](https://github.com/antodila/distributed-systems-project) | Implementation of client-server models and data synchronization protocols | Python, gRPC, Socket |
 | [**Computer Vision (MoCap)**](https://github.com/antodila/cv-mocap_8) | Object detection and feature tracking experiments from course projects | Python, OpenCV, YOLO |
 
